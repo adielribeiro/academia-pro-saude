@@ -517,7 +517,7 @@ function About() {
                 <Typography variant="h6">Projeto comercial</Typography>
               </Stack>
               <Typography color="text.secondary" sx={{ lineHeight: 1.7 }}>
-                Ideal para apresentar a proposta ao dono da academia e mostrar como um site pode gerar autoridade, confiança e mais contatos.
+                Cuide de você com a Pro Saúde.
               </Typography>
             </Paper>
           </Box>
